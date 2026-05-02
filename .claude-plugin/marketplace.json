@@ -16,9 +16,8 @@
       },
       "category": "productivity",
       "source": {
-        "source": "git",
-        "url": "https://github.com/botfoodai/RaLHF.git",
-        "ref": "main"
+        "source": "url",
+        "url": "https://github.com/botfoodai/RaLHF.git"
       },
       "homepage": "https://ralhf.ai",
       "license": "Apache-2.0",
