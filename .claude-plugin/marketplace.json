@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/claude-plugin-marketplace.json",
+  "name": "ralhf-plugins",
+  "description": "Bot Food's public Claude Code plugins — RaLHF and related context-engineering tools.",
+  "owner": {
+    "name": "Bot Food Corporation",
+    "url": "https://botfood.ai"
+  },
+  "plugins": [
+    {
+      "name": "ralhf",
+      "description": "Turns Claude into your personal context engineer — assembles relevant context from your RaLHF wiki, memory, files, and connected apps before every task.",
+      "author": {
+        "name": "Bot Food Corporation",
+        "url": "https://botfood.ai"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "git",
+        "url": "https://github.com/botfoodai/RaLHF.git",
+        "ref": "main"
+      },
+      "homepage": "https://ralhf.ai",
+      "license": "Apache-2.0",
+      "keywords": [
+        "ralhf",
+        "personalization",
+        "context",
+        "memory",
+        "ai-agent",
+        "mcp"
+      ]
+    }
+  ]
+}
