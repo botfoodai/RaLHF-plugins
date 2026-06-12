@@ -1,3 +1,15 @@
+> [!IMPORTANT]
+> **This marketplace has moved.** Bot Food's Claude Code and Codex plugins are now
+> served from a single consolidated marketplace: **[`botfoodai/marketplace`](https://github.com/botfoodai/marketplace)**.
+>
+> ```
+> /plugin marketplace add botfoodai/marketplace
+> /plugin install ralhf
+> ```
+>
+> This repository remains available for existing installs but is no longer the
+> canonical source. Please switch to `botfoodai/marketplace`.
+
 # Bot Food Claude Code Plugins
 
 The official directory of public [Bot Food](https://botfood.ai) plugins for Claude Code.
